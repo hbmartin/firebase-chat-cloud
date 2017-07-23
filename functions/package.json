@@ -1,0 +1,9 @@
+{
+  "name": "chat-coach-functions",
+  "description": "Cloud Functions for Chat Coach",
+  "dependencies": {
+    "firebase-admin": "~4.2.1",
+    "firebase-functions": "^0.5.7"
+  },
+  "private": true
+}
